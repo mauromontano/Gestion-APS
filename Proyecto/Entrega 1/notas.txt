@@ -1,0 +1,14 @@
+el software va a tener funcionalidades para subir los datos, para controlar y la publicacion, para poder mostrar la informacion
+cada ciudad ve sus datos , luego un super usuario estado ve todos los datos
+ ---> ver que requirimientos van saliendo   
+
+--> bahia.gob.ar o para ver como esta hecho y va a ser similar
+    gobierno.abierto/coronavirus
+
+--> caracteristicas y requermientos del producto no funcionales ---> que necesita tener este sistema o producto para cumplir los objetivos
+     es la calidad de la interface y demas 
+
+-->criterios de exito y justificacion sale del pos
+
+-->poner informacion de requeremientos de alto nivel y poner ver detalle --> donde directamente hacer los requerimientos f y nf en un documento aparte
+   los requerimientos son una lista con su titulo y si se necesita se pone una pequeña descripcion
